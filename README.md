@@ -30,3 +30,5 @@ Type a and press Enter to move Left.
 Type d and press Enter to move Right.
 
 To Quit: Type q and press Enter.
+
+end  of game
