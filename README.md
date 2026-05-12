@@ -32,3 +32,5 @@ Type d and press Enter to move Right.
 To Quit: Type q and press Enter.
 
 end  of game
+
+enjoy the gameee..................
